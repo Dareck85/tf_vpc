@@ -13,4 +13,4 @@ module "vpc_basic" {
   public_subnet = "10.0.1.0/24"
 }
 
-Sww `inteface.tf` for additional configurable variables.
+Sww `inteface.tf` for additional configurable variables
